@@ -7,6 +7,7 @@ package org.anier;
 
 public class FachadaCajero {
 
+    private ValidacionUsuario val = new ValidacionUsuario();
 
         public String sacarDinero()
         {
