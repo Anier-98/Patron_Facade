@@ -8,6 +8,6 @@ public class RecargaMovil {
                 + "\n\tpidiendo el número de teléfono móvil..."
                 + "\n\trecargando el movil..."
                 + "\n\tactualizando el saldo...";
-        return res; 
+        return res;
     }
 }
